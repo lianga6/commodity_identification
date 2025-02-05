@@ -19,4 +19,6 @@
 - https://blog.csdn.net/pai_da_xing8/article/details/145392890
 - https://blog.csdn.net/pai_da_xing8/article/details/145385427
 
+# 版权问题
+若用于商业用途需经过本人的同意，参照License
 
