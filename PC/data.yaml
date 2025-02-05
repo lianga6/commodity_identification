@@ -1,0 +1,7 @@
+path:D: \picture\CI3
+train: images/train
+val: images/val
+# test: images/test     # 需要测试的图片路径
+nc: 5
+# lr0: 0.001  # 初始学习率
+names: ['可乐', '东鹏特饮', '红笔', '黑笔', '旺旺雪饼']
