@@ -2,7 +2,7 @@
 
 # 并行运行两个Python脚本
 echo "启动并行任务..."
-sudo ~/venv/myenv/bin/python ~/projects/CI/DS.py &
+sudo ~/venv/myenv/bin/python ~/projects/CI/DS1.py &#选择流式的，实时性更高
 ~/venv/myenv/bin/python ~/projects/CI/ci2.py &
 
 # 等待所有后台任务完成
