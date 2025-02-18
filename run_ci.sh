@@ -9,3 +9,8 @@ sudo ~/venv/myenv/bin/python ~/projects/CI/DS.py &
 wait
 echo "所有并行任务执行完毕"
 
+
+# 赋予脚本执行权限：
+# chmod +x run_scripts.sh
+# 运行脚本：
+# ./run-ci.sh
