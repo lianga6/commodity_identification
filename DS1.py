@@ -14,7 +14,7 @@ import threading
 model = Model(r"vosk-model-small-cn-0.22")
 
 # DeepSeek API 配置
-DEEPSEEK_API_KEY = "sk-qVU1PGkwEf8IXBiJybDvbV6NliS5TYBSJJJhY70SvdY1csNL"
+DEEPSEEK_API_KEY = "your deepseek API keys"
 client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://ai.forestsx.top/v1")
 
 # 录音配置
