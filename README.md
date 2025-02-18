@@ -12,7 +12,7 @@
 [观看视频](https://github.com/user-attachments/assets/86871cf9-a3b9-479e-9113-4bfffed9e53f "点我观看演示视频")
 
 #项目流程
-运行python ci1.py后
+运行python ci1.py或者./run.sh后
 - 按下 'z' 键时，确认当前批次的商品。
 - 再次按下 'z' 键时，确认这批次的商品。
 - 当所有批次都识别完后，按下 'x' 键时，开始结账，并保存当前交易记录到日志中。
@@ -32,6 +32,9 @@
 - https://blog.csdn.net/pai_da_xing8/article/details/145311505
 - https://blog.csdn.net/pai_da_xing8/article/details/145392890
 - https://blog.csdn.net/pai_da_xing8/article/details/145385427
+
+# 改动
+比第一版优化了流程，添加了日志功能。
 
 # 版权问题
 若用于商业用途需经过本人的同意，参照License
