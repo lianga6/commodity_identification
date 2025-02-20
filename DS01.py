@@ -48,8 +48,8 @@ for dev in get_audio_devices():
 model = Model(r"vosk-model-small-cn-0.22")
 
 # API 配置
-DEEPSEEK_API_KEY = "sk-qVU1PGkwEf8IXBiJybDvbV6NliS5TYBSJJJhY70SvdY1csNL"
-DASHSCOPE_API_KEY = "sk-7a75660a7f1c46e8bcf9d7f06ea80be0"  # 阿里云的API密钥
+DEEPSEEK_API_KEY = "你的api"
+DASHSCOPE_API_KEY = "你的api"  # 阿里云的API密钥
 
 client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://ai.forestsx.top/v1")
 dashscope.api_key = DASHSCOPE_API_KEY
