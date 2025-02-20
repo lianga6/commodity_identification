@@ -2,7 +2,7 @@
 
 # 并行运行两个Python脚本
 echo "启动并行任务..."
-sudo ~/venv/myenv/bin/python ~/projects/CI/DS00.py &#看情况选择你想选择的语音助手模式
+sudo ~/venv/myenv/bin/python ~/projects/CI/DS10.py &#看情况选择你想选择的语音助手模式
 ~/venv/myenv/bin/python ~/projects/CI/ci2.py &
 
 # 等待所有后台任务完成
