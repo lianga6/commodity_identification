@@ -32,6 +32,9 @@
    - DS01.py是非流式的，有智能静音检测。
    - DS00.py是流式的，没有智能静音检测。
 
+#API资源
+- deepseek.API
+- dashscope.API：https://help.aliyun.com/zh/model-studio/developer-reference/get-api-key
 
 # 模型说明
 - best1.onnx:只包含“可乐”和“东鹏特饮”的识别。
